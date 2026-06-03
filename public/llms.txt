@@ -7,45 +7,45 @@
 ## Pages
 
 ### Home
-https://m-d-jewelry-7589a1db.zappy5.app
+https://example.com
 Discover M.D Jewelry, where luxury meets every curve. Explore our exclusive collection of handcrafted, one-of-a-kind jewelry designed for those who cherish authentic wearable art. Shop now.
 
 ### Services
-https://m-d-jewelry-7589a1db.zappy5.app/services
+https://example.com/services
 Uncover our bespoke jewelry services, from custom designs to meticulous restoration. Let M.D Jewelry bring your vision to life with unparalleled craftsmanship and personal attention. Start your creation.
 
 ### About
-https://m-d-jewelry-7589a1db.zappy5.app/about
+https://example.com/about
 Delve into the passion and philosophy of M.D Jewelry. Learn about our dedication to artisanal techniques and the stories woven into every curve of our handcrafted collections. Discover our journey.
 
 ### Contact
-https://m-d-jewelry-7589a1db.zappy5.app/contact
+https://example.com/contact
 Ready for a piece that&#39;s uniquely you? Connect with M.D Jewelry today. Share your ideas, inquire about a design, or find the perfect gift. Our craft bench is waiting for your story.
 
 ### Products
-https://m-d-jewelry-7589a1db.zappy5.app/products
+https://example.com/products
 Our Products - M.D JEWELRY
 
 ### Product Detail
-https://m-d-jewelry-7589a1db.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - M.D JEWELRY
 
 ### Category
-https://m-d-jewelry-7589a1db.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - M.D JEWELRY
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://m-d-jewelry-7589a1db.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://m-d-jewelry-7589a1db.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://m-d-jewelry-7589a1db.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -77,8 +77,8 @@ Handmade Jewelry
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://m-d-jewelry-7589a1db.zappy5.app/sitemap.xml
-- Robots: https://m-d-jewelry-7589a1db.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://m-d-jewelry-7589a1db.zappy5.app/llms-full.txt
-- Products (JSON): https://m-d-jewelry-7589a1db.zappy5.app/products.json
-- Products (Google Merchant RSS): https://m-d-jewelry-7589a1db.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
