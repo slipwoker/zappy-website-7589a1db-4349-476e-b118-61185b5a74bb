@@ -10117,6 +10117,33 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
     grid-column: span 1;
   }
 }
+
+:root {
+  --primary: #D4A5A5;
+  --secondary: var(--primary-color);
+  --accent: #B8860B;
+  --bg-light: #FFFFFF;
+  --bg-dark: #F5F0F0;
+  --text-dark: #2C2C2C;
+  --text-light: #FFFFFF;
+  --text-muted: #6B7280;
+  --border-light: #E5E0DC;
+  --border-dark: #D4C5C0;
+  --nav-bg: #FFFFFF;
+  --nav-text: #2C2C2C;
+  --nav-text-hover: #D4A5A5;
+  --cc-btn-primary-bg: #D4A5A5;
+  --cc-btn-primary-color: #FFFFFF;
+  --cc-btn-primary-border: #D4A5A5;
+  --cc-btn-primary-hover-bg: #C49090;
+  --cc-btn-primary-hover-border: #C49090;
+  --cc-btn-primary-hover-color: #FFFFFF;
+  --cc-toggle-on-bg: #D4A5A5;
+}
+
+body {
+  background-color: #FFFFFF;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
