@@ -2452,11 +2452,19 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 #### Opening Hours
 
 
-- Mon–Fri 09:00–18:00
+- Mon 09:00–17:00
 
-- Sat 09:00–13:00
+- Tue 09:00–17:00
 
-- Sun Closed
+- Wed 09:00–17:00
+
+- Thu 09:00–17:00
+
+- Fri Closed
+
+- Sat Closed
+
+- Sun 09:00–17:00
 
 
 
@@ -2736,11 +2744,19 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 #### Opening Hours
 
 
-- Mon–Fri 09:00–18:00
+- Mon 09:00–17:00
 
-- Sat 09:00–13:00
+- Tue 09:00–17:00
 
-- Sun Closed
+- Wed 09:00–17:00
+
+- Thu 09:00–17:00
+
+- Fri Closed
+
+- Sat Closed
+
+- Sun 09:00–17:00
 
 
 
@@ -3042,11 +3058,19 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 #### Opening Hours
 
 
-- Mon–Fri 09:00–18:00
+- Mon 09:00–17:00
 
-- Sat 09:00–13:00
+- Tue 09:00–17:00
 
-- Sun Closed
+- Wed 09:00–17:00
+
+- Thu 09:00–17:00
+
+- Fri Closed
+
+- Sat Closed
+
+- Sun 09:00–17:00
 
 
 
