@@ -489,9 +489,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -798,9 +798,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -1132,9 +1132,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -1365,9 +1365,9 @@ Visit our studio or reach out directly. We're here to help you find the perfect 
 
 
 
-- Visit Us [business_address]
+- Visit Us Bezalel 12, Ramat Gan
 
-- Call Us [business_phone]
+- Call Us 052-842-1147
 
 - Email Us [business_email]
 
@@ -1426,9 +1426,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -1659,9 +1659,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -1870,9 +1870,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -2105,9 +2105,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -2332,9 +2332,9 @@ For questions or requests regarding this privacy policy, please contact us:
 
 - Email: [business_email]
 
-- Phone: [business_phone]
+- Phone: 052-842-1147
 
-- Address: [business_address]
+- Address: Bezalel 12, Ramat Gan
 
 
 
@@ -2383,9 +2383,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -2618,7 +2618,7 @@ If you encounter an accessibility issue on the site or need assistance, please c
 
 - Email: [business_email]
 
-- Phone: [business_phone]
+- Phone: 052-842-1147
 
 
 
@@ -2667,9 +2667,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -2925,9 +2925,9 @@ For questions or clarifications regarding the terms of use:
 
 - Email: [business_email]
 
-- Phone: [business_phone]
+- Phone: 052-842-1147
 
-- Address: [business_address]
+- Address: Bezalel 12, Ramat Gan
 
 
 
@@ -2973,9 +2973,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
