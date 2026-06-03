@@ -368,7 +368,7 @@
     </svg>
   </button>
   
-  <button class="phone-header-btn" data-phone="0528421147" aria-label="Call">
+  <button class="phone-header-btn" data-phone="[business_phone]" aria-label="Call">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
       <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path>
     </svg>
@@ -838,7 +838,7 @@
         const phoneLinks = document.querySelectorAll('a[href^="tel:"]');
         const phoneNumber = phoneLinks.length > 0 
           ? phoneLinks[0].getAttribute('href').replace('tel:', '')
-          : '052-842-1147';
+          : '[business_phone]';
         
         window.location.href = 'tel:' + phoneNumber;
         console.log('[Navbar] Phone button clicked');
@@ -874,9 +874,141 @@
 Personalized jewelry
 
  &nbsp;&nbsp;</span></span></span></span></span></span></h3>
-      <p>Discover timeless elegance with personalized jewelry designed to celebrate your unique story. Every piece is crafted with attention to detail, combining luxury, beauty, and individuality.</p></div>
+      <p>Discover the Collection</p></div>
   </div>
 </section>
+
+<section class="mdjw-collection" aria-labelledby="mdjw-collection-title">
+  <div class="mdjw-collection__container">
+    <!-- Section Header -->
+    <div class="mdjw-collection__header">
+      <span class="mdjw-collection__eyebrow">Handcrafted with Passion</span>
+      <h2 class="mdjw-collection__title" id="mdjw-collection-title">Our Collection</h2>
+      <p class="mdjw-collection__subtitle">Discover our exquisite range of artisan jewelry, each piece crafted to perfection for the discerning connoisseur.</p>
+      <div class="mdjw-collection__divider" aria-hidden="true">
+        <span class="mdjw-collection__divider-line"></span>
+        <span class="mdjw-collection__divider-gem">◆</span>
+        <span class="mdjw-collection__divider-line"></span>
+      </div>
+    </div>
+
+    <!-- Category Cards Grid -->
+    <div class="mdjw-collection__grid" role="list">
+
+      <!-- Rings -->
+      <article class="mdjw-collection__card" role="listitem" tabindex="0" aria-label="Browse Rings collection">
+        <div class="mdjw-collection__card-glow" aria-hidden="true"></div>
+        <div class="mdjw-collection__card-inner">
+          <div class="mdjw-collection__card-icon-wrap" aria-hidden="true">
+            <span class="mdjw-collection__card-icon">💎</span>
+            <div class="mdjw-collection__card-icon-ring"></div>
+          </div>
+          <div class="mdjw-collection__card-img-wrap">
+            <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27300%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="Luxury handmade gold and diamond rings by M.D JEWELRY" class="mdjw-collection__card-img" data-placeholder="collection-rings-1" data-context="Close-up of luxury handmade gold rings with diamonds on dark velvet surface, elegant jewelry photography">
+          </div>
+          <div class="mdjw-collection__card-content">
+            <h3 class="mdjw-collection__card-name">Rings</h3>
+            <p class="mdjw-collection__card-desc">Timeless bands &amp; statement pieces</p>
+            <span class="mdjw-collection__card-cta" aria-hidden="true">Explore <span class="mdjw-collection__card-arrow">→</span></span>
+          </div>
+        </div>
+        <div class="mdjw-collection__card-border" aria-hidden="true"></div>
+      </article>
+
+      <!-- Necklaces -->
+      <article class="mdjw-collection__card" role="listitem" tabindex="0" aria-label="Browse Necklaces collection">
+        <div class="mdjw-collection__card-glow" aria-hidden="true"></div>
+        <div class="mdjw-collection__card-inner">
+          <div class="mdjw-collection__card-icon-wrap" aria-hidden="true">
+            <span class="mdjw-collection__card-icon">💎</span>
+            <div class="mdjw-collection__card-icon-ring"></div>
+          </div>
+          <div class="mdjw-collection__card-img-wrap">
+            <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27300%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="Elegant handcrafted gold necklaces by M.D JEWELRY" class="mdjw-collection__card-img" data-placeholder="collection-necklaces-1" data-context="Elegant luxury gold necklace with gemstone pendant draped on dark marble surface, high-end jewelry photography">
+          </div>
+          <div class="mdjw-collection__card-content">
+            <h3 class="mdjw-collection__card-name">Necklaces</h3>
+            <p class="mdjw-collection__card-desc">Elegant pendants &amp; layered chains</p>
+            <span class="mdjw-collection__card-cta" aria-hidden="true">Explore <span class="mdjw-collection__card-arrow">→</span></span>
+          </div>
+        </div>
+        <div class="mdjw-collection__card-border" aria-hidden="true"></div>
+      </article>
+
+      <!-- Earrings -->
+      <article class="mdjw-collection__card" role="listitem" tabindex="0" aria-label="Browse Earrings collection">
+        <div class="mdjw-collection__card-glow" aria-hidden="true"></div>
+        <div class="mdjw-collection__card-inner">
+          <div class="mdjw-collection__card-icon-wrap" aria-hidden="true">
+            <span class="mdjw-collection__card-icon">💎</span>
+            <div class="mdjw-collection__card-icon-ring"></div>
+          </div>
+          <div class="mdjw-collection__card-img-wrap">
+            <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27300%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="Artisan handmade earrings by M.D JEWELRY" class="mdjw-collection__card-img" data-placeholder="collection-earrings-1" data-context="Pair of exquisite handmade gold drop earrings with diamonds on dark background, luxury jewelry boutique photography">
+          </div>
+          <div class="mdjw-collection__card-content">
+            <h3 class="mdjw-collection__card-name">Earrings</h3>
+            <p class="mdjw-collection__card-desc">Studs, hoops &amp; drop elegance</p>
+            <span class="mdjw-collection__card-cta" aria-hidden="true">Explore <span class="mdjw-collection__card-arrow">→</span></span>
+          </div>
+        </div>
+        <div class="mdjw-collection__card-border" aria-hidden="true"></div>
+      </article>
+
+      <!-- Bracelets -->
+      <article class="mdjw-collection__card" role="listitem" tabindex="0" aria-label="Browse Bracelets collection">
+        <div class="mdjw-collection__card-glow" aria-hidden="true"></div>
+        <div class="mdjw-collection__card-inner">
+          <div class="mdjw-collection__card-icon-wrap" aria-hidden="true">
+            <span class="mdjw-collection__card-icon">💎</span>
+            <div class="mdjw-collection__card-icon-ring"></div>
+          </div>
+          <div class="mdjw-collection__card-img-wrap">
+            <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27300%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="Luxury handcrafted bracelets by M.D JEWELRY" class="mdjw-collection__card-img" data-placeholder="collection-bracelets-1" data-context="Luxury handmade gold bracelet with intricate design on dark velvet, elegant jewelry product photography">
+          </div>
+          <div class="mdjw-collection__card-content">
+            <h3 class="mdjw-collection__card-name">Bracelets</h3>
+            <p class="mdjw-collection__card-desc">Delicate bangles &amp; cuffs</p>
+            <span class="mdjw-collection__card-cta" aria-hidden="true">Explore <span class="mdjw-collection__card-arrow">→</span></span>
+          </div>
+        </div>
+        <div class="mdjw-collection__card-border" aria-hidden="true"></div>
+      </article>
+
+      <!-- Personalized Jewelry -->
+      <article class="mdjw-collection__card mdjw-collection__card--featured" role="listitem" tabindex="0" aria-label="Browse Personalized Jewelry collection">
+        <div class="mdjw-collection__card-glow" aria-hidden="true"></div>
+        <div class="mdjw-collection__card-inner">
+          <div class="mdjw-collection__card-badge" aria-label="Bespoke service available">Bespoke</div>
+          <div class="mdjw-collection__card-icon-wrap" aria-hidden="true">
+            <span class="mdjw-collection__card-icon">💎</span>
+            <div class="mdjw-collection__card-icon-ring"></div>
+          </div>
+          <div class="mdjw-collection__card-img-wrap">
+            <img src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%27400%27 height=%27300%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2716%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27 font-weight=%27500%27%3EClick%20to%20add%20image%3C/text%3E%3C/svg%3E" alt="Custom personalized jewelry by M.D JEWELRY" class="mdjw-collection__card-img" data-placeholder="collection-personalized-1" data-context="Custom engraved personalized gold jewelry piece with initials, bespoke artisan craftsmanship on dark background">
+          </div>
+          <div class="mdjw-collection__card-content">
+            <h3 class="mdjw-collection__card-name">Personalized Jewelry</h3>
+            <p class="mdjw-collection__card-desc">Uniquely yours, made to order</p>
+            <span class="mdjw-collection__card-cta" aria-hidden="true">Explore <span class="mdjw-collection__card-arrow">→</span></span>
+          </div>
+        </div>
+        <div class="mdjw-collection__card-border" aria-hidden="true"></div>
+      </article>
+
+    </div>
+
+    <!-- Bottom CTA -->
+    <div class="mdjw-collection__footer">
+      <a href="#" class="mdjw-collection__btn" aria-label="View the full M.D JEWELRY collection">
+        <span>View Full Collection</span>
+        <span class="mdjw-collection__btn-gem" aria-hidden="true">◆</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+
 
     <section class="featured-products-section" id="featured-products" data-zappy-dynamic="true">
       <div class="container">
@@ -916,7 +1048,7 @@ Personalized jewelry
                     <circle cx="60" cy="10" r="1.5" fill="currentColor" opacity="0.6"></circle>
                 </svg>
             </div>
-            <p class="home-features-section__subtitle">Our commitment to artistry defines every handcrafted piece. Discover the values that shape our atelier.</p>
+            <p class="home-features-section__subtitle">Every piece is a promise of quality, elegance, and individuality. Here's why discerning clients choose M.D Jewelry.</p>
         </div>
 
         <!-- Features Grid -->
@@ -928,8 +1060,8 @@ Personalized jewelry
                         <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
                     </svg>
                 </div>
-                <h3 class="home-features-section__card-title">Artisanal Craftsmanship</h3>
-                <p class="home-features-section__card-text">Every piece is meticulously shaped and finished by hand in our studio, ensuring no two creations are ever exactly alike.</p>
+                <h3 class="home-features-section__card-title">Personalized Jewelry</h3>
+                <p class="home-features-section__card-text">Custom designs tailored to your unique style and story — every piece is as individual as you are.</p>
             </div>
 
             <!-- Card 2 -->
@@ -940,8 +1072,8 @@ Personalized jewelry
                         <path d="M12 6v6l4 2"></path>
                     </svg>
                 </div>
-                <h3 class="home-features-section__card-title">Heirloom Quality</h3>
-                <p class="home-features-section__card-text">We source ethically-mined gemstones and recycled precious metals to create enduring treasures designed to be passed down through generations.</p>
+                <h3 class="home-features-section__card-title">Premium Quality</h3>
+                <p class="home-features-section__card-text">Ethically-sourced gemstones and recycled precious metals, crafted to the highest standards of excellence.</p>
             </div>
 
             <!-- Card 3 -->
@@ -952,8 +1084,31 @@ Personalized jewelry
                         <circle cx="12" cy="7" r="4"></circle>
                     </svg>
                 </div>
-                <h3 class="home-features-section__card-title">Bespoke Consultations</h3>
-                <p class="home-features-section__card-text">Collaborate directly with our designer to bring your vision to life. From custom engagement rings to statement necklaces, your story is our blueprint.</p>
+                <h3 class="home-features-section__card-title">Elegant &amp; Timeless Designs</h3>
+                <p class="home-features-section__card-text">Classic silhouettes with a modern touch — jewelry that transcends trends and endures for generations.</p>
+            </div>
+
+            <!-- Card 4 -->
+            <div class="home-features-section__card">
+                <div class="home-features-section__card-icon">
+                    <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
+                    </svg>
+                </div>
+                <h3 class="home-features-section__card-title">Perfect Gifts for Every Occasion</h3>
+                <p class="home-features-section__card-text">From birthdays to anniversaries, find the ideal piece that speaks from the heart and lasts a lifetime.</p>
+            </div>
+
+            <!-- Card 5 -->
+            <div class="home-features-section__card">
+                <div class="home-features-section__card-icon">
+                    <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M12 15l-2 5l8-3l1-7l-6-3l-7 2l2 5z"></path>
+                        <circle cx="12" cy="12" r="3"></circle>
+                    </svg>
+                </div>
+                <h3 class="home-features-section__card-title">Exceptional Customer Service</h3>
+                <p class="home-features-section__card-text">We're with you every step — from design consultation to aftercare, your satisfaction is our priority.</p>
             </div>
         </div>
     </div>
@@ -974,9 +1129,7 @@ Personalized jewelry
         </svg>
       </div>
       <h2 class="home-about-section__heading">About M.D Jewelry</h2>
-      <p class="home-about-section__description">
-        At M.D JEWELRY, we believe that true beauty lies in the details only human hands can shape. Each piece is born from a deep reverence for traditional goldsmithing, where molten metal and raw gemstones are transformed into wearable art. We don't chase trends; we create heirlooms that carry a story, a touch, and a soul. Our process is slow, intentional, and unwavering in its commitment to quality—because luxury should feel as authentic as it looks.
-      </p>
+      <p class="home-about-section__description">At M.D Jewelry, we believe jewelry is more than an accessory—it's a reflection of who you are. Our mission is to create elegant, personalized jewelry that captures special moments and transforms them into timeless pieces you'll cherish for years.</p>
       <p class="home-about-section__description">
         From the initial sketch to the final polish, every curve is guided by passion and precision. We source conflict-free stones and recycled precious metals, honoring both the earth and the wearer. The result is a collection of one-of-a-kind accessories designed for those who value individuality and timeless elegance over mass production.
       </p>
@@ -1002,7 +1155,7 @@ Personalized jewelry
       </svg>
     </div>
 
-    <h2 class="home-cta-section__headline">Shop with Confidence</h2>
+    <h2 class="home-cta-section__headline">M.D Jewelry | Luxury in Every Curve</h2>
     
     <!-- thin-horizontal-rule -->
     <div class="home-cta-section__rule" aria-hidden="true">
@@ -1053,10 +1206,10 @@ Personalized jewelry
           </li>
           <li>
             <span class="contact-icon"><i class="fas fa-phone"></i></span>
-            <span class="contact-text"><a href="tel:052-842-1147">052-842-1147</a></span>
+            <span class="contact-text"><a href="tel:[business_phone]">[business_phone]</a></span>
           </li>
           <li><a href="/"><span class="contact-icon"><i class="fas fa-map-marker-alt"></i></span>
-            <span class="contact-text">Bezalel 12, Ramat Gan</span></a></li>
+            <span class="contact-text">[business_address]</span></a></li>
         </ul>
       </div>
 
@@ -1075,8 +1228,8 @@ Personalized jewelry
         <h4>Follow Us</h4>
         <div class="footer-social">
           <a href="#" aria-label="Facebook" data-zappy-social-placeholder="true"><i class="fab fa-facebook-f"></i></a>
-          <a href="https://instagram.com/m.diamonds_" aria-label="Instagram" data-zappy-social-placeholder="true"><i class="fab fa-instagram"></i></a>
-          <a href="https://wa.me/972528421147" aria-label="WhatsApp" data-zappy-social-placeholder="true"><i class="fab fa-whatsapp"></i></a>
+          <a href="#" aria-label="Instagram" data-zappy-social-placeholder="true"><i class="fab fa-instagram"></i></a>
+          <a href="#" aria-label="WhatsApp" data-zappy-social-placeholder="true"><i class="fab fa-whatsapp"></i></a>
         </div>
       </div>
     </div>
@@ -1101,7 +1254,7 @@ Personalized jewelry
   </div>
 </footer>
   
-  <a href="https://wa.me/972528421147" class="whatsapp-float" aria-label="WhatsApp">
+  <a href="https://wa.me/[whatsapp_handle]" class="whatsapp-float" aria-label="WhatsApp">
     <i class="fab fa-whatsapp"></i>
   </a>
   

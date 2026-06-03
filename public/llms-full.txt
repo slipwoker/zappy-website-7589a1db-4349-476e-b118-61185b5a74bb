@@ -128,7 +128,161 @@ Products
 ### Luxury in Every Curve -  Personalized jewelry
 
 
-Discover timeless elegance with personalized jewelry designed to celebrate your unique story. Every piece is crafted with attention to detail, combining luxury, beauty, and individuality.
+Discover the Collection
+
+
+
+
+
+
+
+
+Handcrafted with Passion
+
+## Our Collection
+
+
+Discover our exquisite range of artisan jewelry, each piece crafted to perfection for the discerning connoisseur.
+
+
+
+◆
+
+
+
+
+
+
+
+
+
+
+
+
+💎
+
+
+
+
+
+
+
+### Rings
+
+
+Timeless bands & statement pieces
+
+Explore  →
+
+
+
+
+
+
+
+
+
+
+💎
+
+
+
+
+
+
+
+### Necklaces
+
+
+Elegant pendants & layered chains
+
+Explore  →
+
+
+
+
+
+
+
+
+
+
+💎
+
+
+
+
+
+
+
+### Earrings
+
+
+Studs, hoops & drop elegance
+
+Explore  →
+
+
+
+
+
+
+
+
+
+
+💎
+
+
+
+
+
+
+
+### Bracelets
+
+
+Delicate bangles & cuffs
+
+Explore  →
+
+
+
+
+
+
+
+
+
+Bespoke
+
+💎
+
+
+
+
+
+
+
+### Personalized Jewelry
+
+
+Uniquely yours, made to order
+
+Explore  →
+
+
+
+
+
+
+
+
+
+
+View Full Collection
+◆
+
 
 
 
@@ -172,7 +326,7 @@ Loading products...
 
 
 
-Our commitment to artistry defines every handcrafted piece. Discover the values that shape our atelier.
+Every piece is a promise of quality, elegance, and individuality. Here's why discerning clients choose M.D Jewelry.
 
 
 
@@ -184,23 +338,10 @@ Our commitment to artistry defines every handcrafted piece. Discover the values 
 
 
 
-### Artisanal Craftsmanship
+### Personalized Jewelry
 
 
-Every piece is meticulously shaped and finished by hand in our studio, ensuring no two creations are ever exactly alike.
-
-
-
-
-
-
-
-
-
-### Heirloom Quality
-
-
-We source ethically-mined gemstones and recycled precious metals to create enduring treasures designed to be passed down through generations.
+Custom designs tailored to your unique style and story — every piece is as individual as you are.
 
 
 
@@ -210,10 +351,49 @@ We source ethically-mined gemstones and recycled precious metals to create endur
 
 
 
-### Bespoke Consultations
+### Premium Quality
 
 
-Collaborate directly with our designer to bring your vision to life. From custom engagement rings to statement necklaces, your story is our blueprint.
+Ethically-sourced gemstones and recycled precious metals, crafted to the highest standards of excellence.
+
+
+
+
+
+
+
+
+
+### Elegant & Timeless Designs
+
+
+Classic silhouettes with a modern touch — jewelry that transcends trends and endures for generations.
+
+
+
+
+
+
+
+
+
+### Perfect Gifts for Every Occasion
+
+
+From birthdays to anniversaries, find the ideal piece that speaks from the heart and lasts a lifetime.
+
+
+
+
+
+
+
+
+
+### Exceptional Customer Service
+
+
+We're with you every step — from design consultation to aftercare, your satisfaction is our priority.
 
 
 
@@ -236,7 +416,7 @@ Collaborate directly with our designer to bring your vision to life. From custom
 ## About M.D Jewelry
 
 
-At M.D JEWELRY, we believe that true beauty lies in the details only human hands can shape. Each piece is born from a deep reverence for traditional goldsmithing, where molten metal and raw gemstones are transformed into wearable art. We don't chase trends; we create heirlooms that carry a story, a touch, and a soul. Our process is slow, intentional, and unwavering in its commitment to quality—because luxury should feel as authentic as it looks.
+At M.D Jewelry, we believe jewelry is more than an accessory—it's a reflection of who you are. Our mission is to create elegant, personalized jewelry that captures special moments and transforms them into timeless pieces you'll cherish for years.
 
 
 From the initial sketch to the final polish, every curve is guided by passion and precision. We source conflict-free stones and recycled precious metals, honoring both the earth and the wearer. The result is a collection of one-of-a-kind accessories designed for those who value individuality and timeless elegance over mass production.
@@ -254,7 +434,7 @@ Discover Our Craft
 
 
 
-## Shop with Confidence
+## M.D Jewelry | Luxury in Every Curve
 
 
 
@@ -309,9 +489,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- 052-842-1147
+- [business_phone]
 
-- Bezalel 12, Ramat Gan
+- [business_address]
 
 
 
@@ -618,9 +798,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- 052-842-1147
+- [business_phone]
 
-- Bezalel 12, Ramat Gan
+- [business_address]
 
 
 
@@ -952,9 +1132,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- 052-842-1147
+- [business_phone]
 
-- Bezalel 12, Ramat Gan
+- [business_address]
 
 
 
@@ -1185,9 +1365,9 @@ Visit our studio or reach out directly. We're here to help you find the perfect 
 
 
 
-- Visit Us Bezalel 12, Ramat Gan
+- Visit Us [business_address]
 
-- Call Us 052-842-1147
+- Call Us [business_phone]
 
 - Email Us [business_email]
 
@@ -1246,9 +1426,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- 052-842-1147
+- [business_phone]
 
-- Bezalel 12, Ramat Gan
+- [business_address]
 
 
 
@@ -1479,9 +1659,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- 052-842-1147
+- [business_phone]
 
-- Bezalel 12, Ramat Gan
+- [business_address]
 
 
 
@@ -1690,9 +1870,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- 052-842-1147
+- [business_phone]
 
-- Bezalel 12, Ramat Gan
+- [business_address]
 
 
 
@@ -1925,9 +2105,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- 052-842-1147
+- [business_phone]
 
-- Bezalel 12, Ramat Gan
+- [business_address]
 
 
 
@@ -2152,9 +2332,9 @@ For questions or requests regarding this privacy policy, please contact us:
 
 - Email: [business_email]
 
-- Phone: 052-842-1147
+- Phone: [business_phone]
 
-- Address: Bezalel 12, Ramat Gan
+- Address: [business_address]
 
 
 
@@ -2203,9 +2383,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- 052-842-1147
+- [business_phone]
 
-- Bezalel 12, Ramat Gan
+- [business_address]
 
 
 
@@ -2438,7 +2618,7 @@ If you encounter an accessibility issue on the site or need assistance, please c
 
 - Email: [business_email]
 
-- Phone: 052-842-1147
+- Phone: [business_phone]
 
 
 
@@ -2487,9 +2667,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- 052-842-1147
+- [business_phone]
 
-- Bezalel 12, Ramat Gan
+- [business_address]
 
 
 
@@ -2745,9 +2925,9 @@ For questions or clarifications regarding the terms of use:
 
 - Email: [business_email]
 
-- Phone: 052-842-1147
+- Phone: [business_phone]
 
-- Address: Bezalel 12, Ramat Gan
+- Address: [business_address]
 
 
 
@@ -2793,9 +2973,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- 052-842-1147
+- [business_phone]
 
-- Bezalel 12, Ramat Gan
+- [business_address]
 
 
 
