@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
 
 
 /* Self-hosted fonts (Inter + Rubik for multi-language support) */
@@ -10164,6 +10168,94 @@ body {
 .nav-cta-btn { color: #333333 !important; }
 /* === BUTTON TEXT OVERRIDES END === */
 
+
+:root {
+  --font-heading: 'Playfair Display', serif;
+  --font-body: 'Cormorant Garamond', serif;
+}
+
+body {
+  font-family: 'Cormorant Garamond', serif;
+}
+
+:root {
+  --font-heading: 'Playfair Display', serif !important;
+  --font-body: 'Cormorant Garamond', serif !important;
+}
+
+.navbar, nav.navbar {
+  background-color: var(--background-color) !important;
+}
+
+.site-footer {
+  background-color: #F5F0F0 !important;
+}
+
+.site-footer, .site-footer p, .site-footer span, .site-footer li, .site-footer a, .site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5, .site-footer h6 {
+  color: var(--text-color) !important;
+}
+
+.home-hero-section, .home-hero-section__bg-wrapper {
+  background-color: var(--background-color) !important;
+}
+
+.home-hero-section__scrim {
+  background: rgba(255,255,255,0.85) !important;
+}
+
+.home-features-section {
+  background-color: #F5F0F0 !important;
+}
+
+.home-about-section {
+  background-color: var(--background-color) !important;
+}
+
+.home-cta-section {
+  background-color: #F5F0F0 !important;
+}
+
+body {
+  background-color: var(--background-color) !important;
+}
+/* Font pairing applied */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Cormorant+Garamond:wght@400&display=swap');
+:root { --font-heading: 'Playfair Display', sans-serif; --font-body: 'Cormorant Garamond', sans-serif; }
+body { font-family: 'Cormorant Garamond', sans-serif; font-weight: 400; }
+h1, h2, h3, h4, h5, h6 { font-family: 'Playfair Display', sans-serif; font-weight: 600; }
+
+
+nav.navbar {
+  background-color: var(--background-color) !important;
+}
+
+nav.navbar .nav-menu a {
+  color: var(--text-color) !important;
+}
+
+nav.navbar .nav-menu a:hover {
+  color: var(--secondary-color) !important;
+}
+
+nav.navbar .mobile-toggle {
+  color: var(--text-color) !important;
+}
+
+nav.navbar .mobile-toggle svg path {
+  stroke: var(--text-color) !important;
+}
+
+nav.navbar .nav-search-btn, nav.navbar .nav-search-toggle {
+  color: var(--text-color) !important;
+}
+
+nav.navbar .nav-search-input {
+  color: var(--text-color) !important;
+}
+
+nav.navbar .nav-brand a, nav.navbar .logo-link {
+  color: var(--text-color) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
