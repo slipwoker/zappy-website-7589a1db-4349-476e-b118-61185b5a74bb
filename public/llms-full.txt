@@ -128,7 +128,7 @@ Products
 ### Luxury in Every Curve -  Personalized jewelry
 
 
-Discover the Collection
+Discover timeless elegance with personalized jewelry designed to celebrate your unique story. Every piece is crafted with attention to detail, combining luxury, beauty, and individuality.
 
 
 
@@ -165,7 +165,7 @@ Loading products...
 
 
 
-## M.D Jewelry | Luxury in Every Curve
+## Why Choose Us?
 
 
 
@@ -233,7 +233,7 @@ Collaborate directly with our designer to bring your vision to life. From custom
 
 
 
-## M.D Jewelry | Luxury in Every Curve
+## About M.D Jewelry
 
 
 At M.D JEWELRY, we believe that true beauty lies in the details only human hands can shape. Each piece is born from a deep reverence for traditional goldsmithing, where molten metal and raw gemstones are transformed into wearable art. We don't chase trends; we create heirlooms that carry a story, a touch, and a soul. Our process is slow, intentional, and unwavering in its commitment to quality—because luxury should feel as authentic as it looks.
@@ -254,7 +254,7 @@ Discover Our Craft
 
 
 
-## M.D Jewelry | Luxury in Every Curve
+## Shop with Confidence
 
 
 
@@ -309,9 +309,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -618,9 +618,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -952,9 +952,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -1185,9 +1185,9 @@ Visit our studio or reach out directly. We're here to help you find the perfect 
 
 
 
-- Visit Us [business_address]
+- Visit Us Bezalel 12, Ramat Gan
 
-- Call Us [business_phone]
+- Call Us 052-842-1147
 
 - Email Us [business_email]
 
@@ -1246,9 +1246,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -1479,9 +1479,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -1690,9 +1690,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -1925,9 +1925,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -2152,9 +2152,9 @@ For questions or requests regarding this privacy policy, please contact us:
 
 - Email: [business_email]
 
-- Phone: [business_phone]
+- Phone: 052-842-1147
 
-- Address: [business_address]
+- Address: Bezalel 12, Ramat Gan
 
 
 
@@ -2203,9 +2203,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -2438,7 +2438,7 @@ If you encounter an accessibility issue on the site or need assistance, please c
 
 - Email: [business_email]
 
-- Phone: [business_phone]
+- Phone: 052-842-1147
 
 
 
@@ -2487,9 +2487,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
@@ -2745,9 +2745,9 @@ For questions or clarifications regarding the terms of use:
 
 - Email: [business_email]
 
-- Phone: [business_phone]
+- Phone: 052-842-1147
 
-- Address: [business_address]
+- Address: Bezalel 12, Ramat Gan
 
 
 
@@ -2793,9 +2793,9 @@ Handcrafted elegance, designed to be cherished for generations. Each piece tells
 
 - [business_email]
 
-- [business_phone]
+- 052-842-1147
 
-- [business_address]
+- Bezalel 12, Ramat Gan
 
 
 
